@@ -1,9 +1,1 @@
-# Profile-Readme
-
-#Phyf3 - Philip Adewole
-
-#Technology Stake 
-
-[![Philip's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phyf3&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Phyf3&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD3110)](https://git.io/streak-stats)
