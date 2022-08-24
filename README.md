@@ -1,6 +1,6 @@
 **I'm Philip**, a **Software Developer** with a primary focus on **Frontend Engineering**. <br/>
 
-I enjoy **problem solving** and also **building web apps** and occasionally dapps with : <br/>
+I enjoy **problem solving**, **building web apps** and occasionally **dapps** with : <br/>
 — JavaScript <br/>
  — TypeScript <br/>
  — React.js <br/>
