@@ -4,4 +4,5 @@ I enjoy **problem solving**, **building web apps** and occasionally **dapps** wi
 **JavaScript**, **TypeScript**, **React.js**, **Next.js**, **CSS/SCSS**, **Solidity**
 
 <br/>
-Currently learning data structures and algorithms, building projects, building my skills and open to opportunities.
+Currently learning data structures and algorithms, building projects, building my skills and looking to learn React-Native for mobile development. <br/>
+Open to opportunities
