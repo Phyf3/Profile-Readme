@@ -1,8 +1,6 @@
-**I'm Philip**, a **Software Developer** with a primary focus on **Frontend Engineering**. <br/>
+**I'm Philip**, a **Fullstack Developer**. <br/>
 
-I enjoy **problem solving**, **building web apps** and occasionally **dapps** with : <br/>
-**JavaScript**, **TypeScript**, **React.js**, **Next.js**, **CSS/SCSS**, **Solidity**
+I **build web apps** with **TypeScript**, **React.js**, **Next.js**, **CSS/SCSS**, **Node.js** <br/>
 
-<br/>
-Currently learning data structures and algorithms, building projects, building my skills and looking to learn React-Native for mobile development. <br/>
-Open to opportunities
+**[LinkedIn](https://www.linkedin.com/in/philip-adewole)** <br />
+Open to opportunities.
