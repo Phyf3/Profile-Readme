@@ -1,4 +1,4 @@
-**I'm Philip**, a **Software Engineer (Fullstack)**. <br/>
+**I'm Philip**, a **Software Engineer**. <br/>
 
 I enjoy building and **build web apps** with **TypeScript**, **React.js**, **Next.js**, **CSS/SCSS**, **Node.js-Express** <br/>
 
